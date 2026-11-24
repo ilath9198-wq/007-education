@@ -133,10 +133,10 @@ export default function HomePage() {
 
               <button
                 onClick={() => openEnrollment()}
-                className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-white/10 hover:bg-white/20 text-white border-2 border-white/60 hover:border-white font-heading font-bold text-base sm:text-lg tracking-wider uppercase rounded-xl backdrop-blur-md transition-all transform hover:-translate-y-0.5 group cursor-pointer"
+                className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-amber-500 hover:bg-amber-400 text-navy-950 border-2 border-amber-300 font-heading font-bold text-base sm:text-lg tracking-wider uppercase rounded-xl shadow-lg transition-all transform hover:-translate-y-0.5 group cursor-pointer"
               >
                 <span>Apply Now (2026)</span>
-                <ArrowRight className="w-5 h-5 text-sky-300 group-hover:translate-x-1 transition-transform" />
+                <ArrowRight className="w-5 h-5 text-navy-950 group-hover:translate-x-1 transition-transform" />
               </button>
             </div>
 

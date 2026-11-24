@@ -85,8 +85,11 @@ export default function Navbar() {
               <span className="font-heading font-extrabold text-xl sm:text-2xl text-navy-900 tracking-tight uppercase group-hover:text-royal-600 transition-colors leading-none truncate">
                 EDVANCE
               </span>
-              <span className="text-[10px] sm:text-[11px] font-sans font-medium text-slate-500 tracking-wider uppercase mt-1 truncate">
+              <span className="hidden sm:block text-[11px] font-sans font-medium text-slate-500 tracking-wider uppercase mt-1 truncate">
                 Learn Today. Lead Tomorrow.
+              </span>
+              <span className="block sm:hidden text-[9px] font-sans font-semibold text-slate-500 tracking-wider uppercase mt-0.5 truncate">
+                Learning Institute
               </span>
             </div>
           </Link>

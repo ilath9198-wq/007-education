@@ -102,7 +102,7 @@ export default function ResultsPage() {
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full text-center sm:text-left">
           <div className="max-w-3xl">
             {/* Academic Track Pill */}
-            <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-royal-900/80 border border-royal-400/50 text-royal-200 text-xs font-mono font-medium tracking-widest uppercase mb-6 backdrop-blur-md shadow-lg">
+            <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-navy-900/90 border border-amber-400/60 text-amber-300 text-xs font-mono font-medium tracking-widest uppercase mb-6 backdrop-blur-md shadow-lg">
               <Trophy className="w-3.5 h-3.5 text-amber-400" />
               <span>SCHOLASTIC BENCHMARKS // COHORT 2025–2026</span>
             </div>
